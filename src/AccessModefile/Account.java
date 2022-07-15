@@ -23,4 +23,9 @@ public class Account {
 			this.balance += balance;
 		}
 	}
+
+	public String getAno() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
